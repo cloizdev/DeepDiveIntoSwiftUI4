@@ -101,11 +101,9 @@
 		D6B0B90728522D4A007F4CA4 /* DeepDiveIntoSwiftUI4 */ = {
 			isa = PBXGroup;
 			children = (
+				D6B0B939285233F7007F4CA4 /* NewModifiers */,
 				D6B0B90828522D4A007F4CA4 /* DeepDiveIntoSwiftUI4App.swift */,
 				D6B0B90A28522D4A007F4CA4 /* RootView.swift */,
-				D6B0B93328522DF1007F4CA4 /* ScrollIndicatorView.swift */,
-				D6B0B93428522DF1007F4CA4 /* ShadowsGradientView.swift */,
-				D6B0B93728522DFB007F4CA4 /* DismissKeyboardScrollView.swift */,
 				D6B0B90C28522D4C007F4CA4 /* Assets.xcassets */,
 				D6B0B90E28522D4C007F4CA4 /* DeepDiveIntoSwiftUI4.entitlements */,
 				D6B0B90F28522D4C007F4CA4 /* Preview Content */,
@@ -136,6 +134,16 @@
 				D6B0B92628522D4C007F4CA4 /* DeepDiveIntoSwiftUI4UITestsLaunchTests.swift */,
 			);
 			path = DeepDiveIntoSwiftUI4UITests;
+			sourceTree = "<group>";
+		};
+		D6B0B939285233F7007F4CA4 /* NewModifiers */ = {
+			isa = PBXGroup;
+			children = (
+				D6B0B93328522DF1007F4CA4 /* ScrollIndicatorView.swift */,
+				D6B0B93428522DF1007F4CA4 /* ShadowsGradientView.swift */,
+				D6B0B93728522DFB007F4CA4 /* DismissKeyboardScrollView.swift */,
+			);
+			path = NewModifiers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -2,7 +2,7 @@
 //  IndicatorKeyboardScrollView.swift
 //  SwiftUI4DeepDive
 //
-//  Created by Maxime Parmantier Cloiseau on 09/06/2022.
+//  Created by Cloiz Cloiseau on 09/06/2022.
 //
 
 import SwiftUI
